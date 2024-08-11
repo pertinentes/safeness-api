@@ -42,12 +42,12 @@ module.exports = {
 
 ### 4. Generate an Access Key
 
-To secure your API, you need to generate an access key. Use the `getKey` command to generate a key that will be used in API requests.
+To secure your API, you need to generate an access key. Use the `getKey` command with the bot to generate a key that will be used in API requests.
 
 Run the following command:
 
 ```bash
-node getKey.js
+/getKey
 ```
 
 This will generate a new access key. Copy the key and use it in your API requests as described below.
