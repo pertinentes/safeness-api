@@ -40,7 +40,19 @@ module.exports = {
 };
 ```
 
-### 4. Start the Server
+### 4. Generate an Access Key
+
+To secure your API, you need to generate an access key. Use the `getKey` command to generate a key that will be used in API requests.
+
+Run the following command:
+
+```bash
+node getKey.js
+```
+
+This will generate a new access key. Copy the key and use it in your API requests as described below.
+
+### 5. Start the Server
 
 To start the API, run the following command:
 
@@ -50,7 +62,7 @@ node api.js
 
 The server will then be accessible at `http://localhost:20005`.
 
-### 5. Using the API
+### 6. Using the API
 
 #### 1. Save a Previous Name
 
