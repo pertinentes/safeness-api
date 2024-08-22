@@ -3,7 +3,7 @@
 This project is an API designed to manage users' previous names, intended for use with the [safeness-prevnames](https://www.npmjs.com/package/safeness-prevnames) module. The API allows you to save, retrieve, and manage users' previous names in a SQLite database.
 
 ## Notes
-- If you want to get acces to my personal api with more than 100k users prevnames and more everyday just add me on discord : [pertinentes](https://discord.com/users/953916177275555862), or dm me via [Safeness server](support) to give you an access Key !
+- If you want to get acces to my personal api with more than 100k users prevnames and more everyday just add me on discord : [pertinentes](https://discord.com/users/953916177275555862), or dm me via [Safeness server](https://discord.com/invites/safeness) to give you an access Key !
 ## Features
 
 - **Save Previous Names:** Store users' previous names in the database.
